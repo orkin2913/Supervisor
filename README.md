@@ -25,7 +25,7 @@ $ sudo apt-get install -y screen nodejs build-essential
 
 Upload file to your your TeamSpeak 3 server folder
 
-Install the dependencies and start the bot.
+Install the dependencies and start the script.
 
 ```sh
 $ cd [YOUR TEAMSPEAK3 SERVER FOLDER]

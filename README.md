@@ -15,7 +15,7 @@ Supervisor monitors TeamSpeak server process and restarts if necessary.
 
 
 ## Installation
-Fancy requires [node.js] v6+ and build tools to run. [Install instructions.]
+Supervisor requires [node.js] v6+ and build tools to run. [Install instructions.]
 
 Install screen, node.js and build tools (example for Ubuntu and Debian)
 ```sh
